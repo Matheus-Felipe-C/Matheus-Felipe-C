@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matheus-Felipe-C
 - 👀 I’m interested in games, martial arts, coding and poetry!
-- 🌱 I’m currently learning C, Java, Git, web design/development and data banks!
+- 🌱 I’m currently learning Java, Git and web development!
 - 💞️ I’m looking to collaborate on my own projects and on collaborative projects  
 - 📫 How to reach me: Send a message on my Linkedinn, e-mail or Twitter
 Twitter: @theusf40
