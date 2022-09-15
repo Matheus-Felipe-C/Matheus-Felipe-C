@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-felipe-c&show_icons=true&locale=en&layout=compact" alt="matheus-felipe-c" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-felipe-c&show_icons=true&locale=en" alt="matheus-felipe-c" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheus-felipe-c&" alt="matheus-felipe-c" /></p>
