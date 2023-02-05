@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus-felipe-c&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-felipe-c" /> </p>
 
-- 🔭 I’m currently working on [A Hangman game](https://github.com/Matheus-Felipe-C/desafio-forca.git)
+- 🔭 I’m currently working on [A Medal Leaderboard!](https://github.com/Matheus-Felipe-C/quadroMedalhas.git)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript and Java!**
+- 🌱 I’m currently learning **HTML/CSS/JS and Java!**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **JavaScript and Java!**
 
 - 📫 How to reach me **theusf40@gmail.com**
 
